@@ -37,4 +37,5 @@ The objective of this project was to program an Arduino to blink an LED at a 1-s
 
 This project served as a foundation for understanding embedded systems programming and hardware control using Arduino.
 ![image](https://github.com/user-attachments/assets/e735f9cc-ef19-418d-b69b-3bb06aaf6803)
-![image](https://github.com/user-attachments/assets/d6cfa946-43a1-47b6-bda4-62d82fc49a24)
+![image](https://github.com/user-attachments/assets/60d85baa-724a-4373-8eb8-4cc00fa15235)
+
